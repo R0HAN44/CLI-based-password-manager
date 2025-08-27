@@ -43,3 +43,6 @@ coverage.xml
 
 # VS Code
 .vscode/
+
+master.key
+vault.json
