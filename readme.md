@@ -63,6 +63,12 @@ cd password_manager
 pip install cryptography pyperclip
 ```
 
+### Activate virtual env
+
+```bash
+source venv/bin/activate
+```
+
 ### Run the app
 
 ```bash
