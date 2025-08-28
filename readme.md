@@ -122,13 +122,3 @@ Provides helper utilities:
 4. **Generate Passwords**: Create strong, random passwords
 5. **Manage Entries**: List, update, or delete stored accounts
 6. **Quick Access**: Copy passwords directly to clipboard
-
-## 🚀 Future Improvements
-
-- 🖥️ GUI version (Tkinter/PyQt)
-- 🗃️ SQLite storage instead of JSON
-- 📊 Password strength checker
-- ☁️ Cloud sync for vault backup
-- 🔄 Password expiration reminders
-- 📱 Mobile app integration
-- 🛡️ Two-factor authentication support
